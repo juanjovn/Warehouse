@@ -1,0 +1,5 @@
+"000001", "Primer elemento",          "002", "AUTOBASA DE LAGOS, S.A.",                                             "0324,00", "0003,00", "0444,00", "0888,00", "No"
+"000002", "Segundo",                  "018", "BANCO NACIONAL S.A. FIDEICOMISO ARRECIFES DE LA COSTA OCC DE IMPCPN", "-5555,77", "0000,00", "0000,00", "0000,00", "No"
+"000010", "Decimo elemento",          "018", "BANCO NACIONAL S.A. FIDEICOMISO ARRECIFES DE LA COSTA OCC DE IMPCPN", "0000,00", "0000,00", "0000,00", "0000,00", "Si"
+"000015", "Decimo quinto",            "003", "AVANCES TECNOLOGICOS EN TELECOMUNICACIONES, S.A.",                    "0005,00", "0000,00", "0023,00", "0046,00", "Si"
+"000020", "Elemento 20",              "005", "AUTOMOTRIZ CENTRAL, S.A.",                                            "0003,00", "0001,00", "0005,95", "0011,90", "No"
